@@ -1,11 +1,7 @@
 
 body {
-  background-image: url('sky.jfif');
-  background-repeat: no-repeat;
+  background-image: url('tienganh.png');
   background-size: 100% 100%;
-}
-h1 {
-  color: blue;
 }
 h2 {
   background-image: url('dem.jfif');
@@ -14,15 +10,6 @@ p {
   color: red;
   font-family: courier;
   font-size: 160%;
-}
-div {
-  color: yellow;
-  font-family: courier;
-  font-size: 160%;
-}
-span {
-  color:blue;
-  font-weight:bold;
 }
 a:link {
   color: green;
